@@ -6,5 +6,5 @@ I'm mainly interested in object oriented programmation langages like Java or C#,
 Outside of studying, I like to sometime do modding on Terraria, a indie video game from 2011.
 
 You can find me on these websites :
-- Discord : dim_toups
-- LinkedIn : [Dimitri Toupense](https://www.linkedin.com/in/dimitri-toupense/)
+- <img src="./src/Discord_icon.png" alt="Discord_icon" width=13> **Discord** : dim_toups
+- <img src="./src/LinkedIn_icon.png" alt="LinkedIn_icon" width=15> **LinkedIn** : [Dimitri Toupense](https://www.linkedin.com/in/dimitri-toupense/)
