@@ -4,3 +4,7 @@ I'm a French student in college, learning software development and coding in gen
 I'm mainly interested in object oriented programmation langages like Java or C#, or procedural langages like C. I always try to make an efficient code that I understand, that has documentation, and that my collegues will understant too.
 
 Outside of studying, I like to sometime do modding on Terraria, a indie video game from 2011.
+
+You can find me on these websites :
+- Discord : dim_toups
+- LinkedIn : [Dimitri Toupense](https://www.linkedin.com/in/dimitri-toupense/)
